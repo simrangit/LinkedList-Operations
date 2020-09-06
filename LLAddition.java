@@ -16,10 +16,10 @@ public class LLAddition {
 		obj.push(8, 1);
 		obj.push(9, 1);
 		
-//		obj.push(1, 2);
-//		obj.push(9, 2);
-//		obj.push(7, 2);
-//		obj.push(9, 2);
+		obj.push(1, 2);
+		obj.push(9, 2);
+		obj.push(7, 2);
+		obj.push(9, 2);
 		
 //		obj.printlist(Start1);
 //		obj.printlist(Start2);
